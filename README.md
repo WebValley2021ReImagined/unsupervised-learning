@@ -95,5 +95,5 @@ anything the license permits.
 
 ### Contacts 
 
-For any questions or doubts, feel free to open an [issue](https://github.com/WebValley2021ReImagined/unsupervised-learning/issues) in the repository, or drop me an email @ `valerio.maggio_at_bristol.ac.uks`
+For any questions or doubts, feel free to open an [issue](https://github.com/WebValley2021ReImagined/unsupervised-learning/issues) in the repository, or drop me an email @ `valerio.maggio_at_bristol.ac.uk`
 
